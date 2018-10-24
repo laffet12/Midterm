@@ -8,7 +8,7 @@
 
 body {
   font-family: 'Nanum Gothic';
-  padding-top: 10px, http://fonts.googleapis.com/earlyaccess/nanumgothic.css?family=Nanum+Gothic; /* Project Æ¯Â¡: This is New font. It was made to reduce ink usage. */
+  padding-top: 10px, http://fonts.googleapis.com/earlyaccess/nanumgothic.css?family=Nanum+Gothic; /* Project íŠ¹ì§•: This is New font. It was made to reduce ink usage. */
   color: #868e96;
 }
 
@@ -60,19 +60,19 @@ p.lead {
 
 .social-icons a {
   display: inline-block;
-  height: 3.5rem;
-  width: 3.5rem;
-  background-color: #495057; /*¼Ò¼È¹öÆ° »ö*/
+  padding: 0.25rem;
+  height: 4rem;
+  width: 4rem;
+  background-color: #495057; /*ì†Œì…œë²„íŠ¼ ìƒ‰*/
   color: #fff !important;
   border-radius: 100%;
   text-align: center;
   font-size: 1.5rem;
-  line-height: 3.5rem;
-  margin-right: 1rem;
+  line-height: 3.7rem;
 }
 
 .social-icons a:last-child {
-  margin-right: 0;
+  margin-top: auto;
 }
 
 .social-icons a:hover {
@@ -84,7 +84,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #0094ff;/*skills ÀÇ ¹öÆ°µé*/
+  color: #0094ff;/*skills ì˜ ë²„íŠ¼ë“¤*/
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -180,15 +180,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #0094ff !important; /*ÁÂÃø ÅÇ*/
+  background-color: #0094ff !important; /*ì¢Œì¸¡ íƒ­*/
 }
 
 .text-primary {
-  color: #0094ff !important; /*¸Ç Ã³À½ µŞÀÌ¸§*/
+  color: #0094ff !important; /*ë§¨ ì²˜ìŒ ë’·ì´ë¦„*/
 }
 
 a {
-  color: #0094ff; /*ÀÌ¸ŞÀÏ*/
+  color: #0094ff; /*ì´ë©”ì¼*/
 }
 
 a:hover, a:focus, a:active {
